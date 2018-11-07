@@ -1,14 +1,61 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+a {
+  text-decoration: none;
+  color: #222222;
+}
+
+input[type="text"] {
+  border: 1px solid #000;
+  outline: none;
+  padding: 0px 5px;
+}
+
+main {
+  margin-top: 70px;
+}
+
+@font-face {
+  font-family: 'Noto Sans JP';
+  font-style: normal;
+  font-weight: 400;
+  src: local("Noto Sans CJK JP Regular"),
+       url(//fonts.gstatic.com/ea/notosansjp/v5/NotoSansJP-Regular.woff2) format('woff2'),
+       url(//fonts.gstatic.com/ea/notosansjp/v5/NotoSansJP-Regular.woff) format('woff'),
+       url(//fonts.gstatic.com/ea/notosansjp/v5/NotoSansJP-Regular.otf) format('opentype');
+}
+
+.main-color {
+  color: #EF8EDC;
+}
+
+.sub-color {
+  color: #6EC6DD;
+}
+
+.third-color {
+  color: #E5D50A;
+}
+
+.fourth-color {
+  color: #AC9BE8;
+}
+
+.link {
+  color: #298AF5;
+}
+
+.plain-text {
+  color: #222222;
+}
+
+.weak-text {
+  color: #888888;
+}
+
+.disabled-text {
+  color: #AAAAAA;
 }

@@ -1,0 +1,95 @@
+{
+  "comics": [
+    {
+      "title": "コミック1",
+      "front_cover": "http://placehold.it/250x400",
+      "price": 1000,
+      "day": "2018/12/30",
+      "origin_title": "オリジンタイトル1",
+      "status": 1,
+      "category": 0
+    },
+    {
+      "title": "コミック2",
+      "front_cover": "http://placehold.it/250x400",
+      "price": 1000,
+      "day": "2018/12/30",
+      "origin_title": "オリジンタイトル１",
+      "status": 0,
+      "category": 1
+    },
+    {
+      "title": "コミック3",
+      "front_cover": "http://placehold.it/250x400",
+      "price": 1000,
+      "day": "2018/12/30",
+      "origin_title": "オリジンタイトル3",
+      "status": 0,
+      "category": 3
+    },
+    {
+      "title": "コミック1",
+      "front_cover": "http://placehold.it/250x400",
+      "price": 1000,
+      "day": "2018/12/30",
+      "origin_title": "オリジンタイトル1",
+      "status": 1,
+      "category": 0
+    },
+    {
+      "title": "コミック1",
+      "front_cover": "http://placehold.it/250x400",
+      "price": 1000,
+      "day": "2018/12/30",
+      "origin_title": "オリジンタイトル1",
+      "status": 1,
+      "category": 0
+    },
+    {
+      "title": "コミック1",
+      "front_cover": "http://placehold.it/250x400",
+      "price": 1000,
+      "day": "2018/12/30",
+      "origin_title": "オリジンタイトル1",
+      "status": 1,
+      "category": 0
+    },
+    {
+      "title": "コミック1",
+      "front_cover": "http://placehold.it/250x400",
+      "price": 1000,
+      "day": "2018/12/30",
+      "origin_title": "オリジンタイトル1",
+      "status": 1,
+      "category": 0
+    },
+    {
+      "title": "コミック1",
+      "front_cover": "http://placehold.it/250x400",
+      "price": 1000,
+      "day": "2018/12/30",
+      "origin_title": "オリジンタイトル1",
+      "status": 1,
+      "category": 0
+    },
+    {
+      "title": "コミック1",
+      "front_cover": "http://placehold.it/250x400",
+      "price": 1000,
+      "day": "2018/12/30",
+      "origin_title": "オリジンタイトル1",
+      "status": 1,
+      "category": 0
+    },
+    {
+      "title": "コミック1",
+      "front_cover": "http://placehold.it/250x400",
+      "price": 1000,
+      "day": "2018/12/30",
+      "origin_title": "オリジンタイトル1",
+      "status": 1,
+      "category": 0
+    }
+  ],
+  "profile": { "name": "typicode" }
+}
