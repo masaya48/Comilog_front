@@ -5,6 +5,10 @@ import 'ress';
 
 import Header from './components/organisms/header';
 import Top from './containers/top';
+import Ranking from './components/pages/ranking';
+import Mypage from './components/pages/mypage';
+import Exhibit from './components/pages/exhibit';
+import ComicDetail from './components/pages/comic-detail';
 import Footer from './components/organisms/footer';
 
 class App extends Component {
@@ -16,6 +20,10 @@ class App extends Component {
             <Header></Header>
           </Router>
           <Route path='/' exact component={Top}/>
+          <Route path='/ranking' exact component={Ranking}/>
+          <Route path='/mypage' exact component={Mypage}/>
+          <Route path='/exhibit' exact component={Exhibit}/>
+          <Route path='/comic' exact component={ComicDetail}/>
           <Footer></Footer>
         </div>
       </Router>
