@@ -10,6 +10,7 @@ import Mypage from './components/pages/mypage';
 import Exhibit from './components/pages/exhibit';
 import ComicDetail from './components/pages/comic-detail';
 import Footer from './components/organisms/footer';
+import Login from './components/pages/login';
 
 class App extends Component {
   render() {
@@ -20,6 +21,7 @@ class App extends Component {
             <Header></Header>
           </Router>
           <Route path='/' exact component={Top}/>
+          <Route path='/login' exact component={Login}/>
           <Route path='/ranking' exact component={Ranking}/>
           <Route path='/mypage' exact component={Mypage}/>
           <Route path='/exhibit' exact component={Exhibit}/>

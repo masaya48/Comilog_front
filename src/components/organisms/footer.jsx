@@ -9,7 +9,7 @@ const styles = {
 }
 
 const Footer = () => (
-  <footer style={styles.footer}>Copywrite 2018 Comilog</footer>
+  <footer style={styles.footer}>© 2018 Comilog</footer>
 );
 
 export default Footer;

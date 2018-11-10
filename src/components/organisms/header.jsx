@@ -17,7 +17,7 @@ const styles = {
 
 const Header = () => (
   <header style={styles.header}>
-    <Logo></Logo>
+    <Logo path={'http://placehold.it/200x40'}></Logo>
     <Menu></Menu>
   </header>
 );
